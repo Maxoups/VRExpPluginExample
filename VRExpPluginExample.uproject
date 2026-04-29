@@ -17,8 +17,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"HoloLens"
+				"LinuxArm64",
+				"Android"
 			]
 		},
 		{
@@ -28,7 +28,8 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"Mac",
+				"IOS"
 			]
 		},
 		{
@@ -42,7 +43,8 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"Mac",
+				"IOS"
 			]
 		},
 		{
@@ -60,8 +62,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"HoloLens"
+				"LinuxArm64",
+				"Android"
 			]
 		},
 		{
